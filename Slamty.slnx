@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Slamty.Api/Slamty.Api.csproj" />
+  <Project Path="Slamty.Application/Slamty.Application.csproj" Id="040cbdea-abd6-40c3-92fa-bb4753cc0135" />
+  <Project Path="Slamty.Core/Slamty.Core.csproj" />
+  <Project Path="Slamty.Infrastracture/Slamty.Infrastracture.csproj" />
+</Solution>
