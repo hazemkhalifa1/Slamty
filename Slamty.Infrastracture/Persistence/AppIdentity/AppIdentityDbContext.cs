@@ -9,5 +9,7 @@ namespace Slamty.Infrastracture.Persistence.AppIdentity
         public AppIdentityDbContext(DbContextOptions options) : base(options)
         {
         }
+        public DbSet<DashboardUser> DashboardUsers { get; set; }
+        public DbSet<MobileUser> MobileUsers { get; set; }
     }
 }
